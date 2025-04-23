@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "C:/VSCode WorkSpace/30 Days ML plan"
+		}
+	],
+	"settings": {
+		"jupyter.kernel.defaultInterpreterPath": "c:\\Users\\AmroV\\anaconda3\\envs\\amrxenv\\python"
+}
+}

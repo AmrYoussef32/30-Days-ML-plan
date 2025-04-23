@@ -1,0 +1,91 @@
+Day,Project,Title,Link
+Day 1,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 1,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 1,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 2,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 2,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 2,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 3,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 3,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 3,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 4,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 4,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 4,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 5,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 5,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 5,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
+Day 6,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 6,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 6,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 7,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 7,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 7,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 8,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 8,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 8,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 9,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 9,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 9,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 10,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 10,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 10,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
+Day 11,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 11,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 11,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 12,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 12,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 12,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 13,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 13,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 13,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 14,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 14,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 14,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 15,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 15,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 15,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
+Day 16,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 16,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 16,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 17,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 17,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 17,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 18,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 18,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 18,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 19,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 19,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 19,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 20,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 20,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 20,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
+Day 21,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 21,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 21,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 22,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 22,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 22,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 23,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 23,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 23,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 24,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 24,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 24,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 25,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 25,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 25,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
+Day 26,Project 1,Linear Regression on House Prices,https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+Day 26,Project 2,Logistic Regression on Breast Cancer,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+Day 26,Project 3,Decision Tree on Iris Dataset,https://archive.ics.uci.edu/ml/datasets/iris
+Day 27,Project 1,Random Forest on Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Day 27,Project 2,Titanic Survival Prediction,https://www.kaggle.com/competitions/titanic/data
+Day 27,Project 3,EDA on Netflix Movies,https://www.kaggle.com/datasets/shivamb/netflix-shows
+Day 28,Project 1,KNN on Handwritten Digits,https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Day 28,Project 2,Naive Bayes on Spam Detection,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 28,Project 3,SVM on Heart Disease,https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Day 29,Project 1,Clustering with KMeans (Mall Customers),https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Day 29,Project 2,PCA on Face Images,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+Day 29,Project 3,Hierarchical Clustering on Crime Data,https://www.kaggle.com/datasets/souravbiswas1999/crime-analysis
+Day 30,Project 1,Text Classification with TF-IDF,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Day 30,Project 2,Sentiment Analysis on Tweets,https://www.kaggle.com/datasets/kazanova/sentiment140
+Day 30,Project 3,Topic Modeling with LDA,https://www.kaggle.com/datasets/therohk/million-headlines
